@@ -1,0 +1,209 @@
+
+.bangladesh{
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    display: flex;
+    float: left;
+}
+.bd-red{
+    background-color: red;
+    border-radius: 50%;
+    height:150px ;
+    width: 150px;
+}
+.united-states{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    float: left;
+
+}
+.stripe{
+    background-color: red;
+    height: 15.38461538461538px;
+    width: 100%;
+}
+.stripe--white{
+    background-color: white;
+    height: 15.38461538461538px;
+    width: 100%;
+}
+.canada{
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+    float: left;
+}
+.cad-red{
+    background-color: red;
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+.cad-white{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.japan{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    float: left;
+    display: flex;
+}
+.japan-red{
+    background-color: red;
+    border-radius: 50%;
+    height:150px ;
+    width: 150px;
+}
+.germany{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+
+}
+.german-black{
+    background-color: black;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.german-red{
+    background-color: red;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.german-yellow{
+    background-color: yellow;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.ukrain{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+}   
+.ukrain-blue{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+}
+.ukrain-yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+}
+.arab-emiret{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+}
+.arab-red{
+    background-color: red;
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+.arab-green{
+    background-color: green;
+    height: 66.66666666666667px;
+    width: 100%;
+   
+}
+.arab-white{
+    background-color: white;
+    height: 66.66666666666667px;
+    width: 100%;
+   
+}
+.arab-black{
+    background-color: black;
+    height: 66.66666666666667px;
+    width: 100%;
+    
+}
+.india{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+}
+.india-orange{
+    background-color: orange;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.india-white{
+    background-color: white;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.india-green{
+    background-color: green;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.chorkha{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+.argentina{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+}
+.arg-blue{
+    background-color: skyblue;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.arg-white{
+    background-color: white;
+    height: 66.66666666666667px;
+    width: 100%;
+}
+.sun{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.spain{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    margin: 20px;
+}
+.spain-red{
+    background-color: red;
+    height: 25%;
+    width: 100%;
+}
+.spain-yellow{
+    background-color: yellow;
+    height: 50%;
+    width: 100%;
+}
+.coast{
+    position: relative;
+    padding-left: 50px;
+}
